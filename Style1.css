@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong&effect=neon:wght@200;300;400;500;600;700;800;900&display=swap');
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trirong',serif;
+    
+    
+}
+/* body{
+    background-color: ;
+} */
+/* .navbar{
+    background: linear-gradient(to bottom, 0%, rgba(0,0,0,0) 100%);
+} */
