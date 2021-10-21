@@ -144,10 +144,10 @@
 
             Email.send({
                 Host: "smtp.gmail.com",
-                Username: "omkar.bhamare20@pccoepune.org",
+                Username: "Emailid1",
                 Password: "120C10005",
-                To: 'bhamareomkar5@gmail.com',
-                From: "bhamareomkar5@gmail.com",
+                To: 'Emailid2',
+                From: "Emailid2",
                 Subject: "New message on contact from " + name,
                 Body: Body
             }).then(
